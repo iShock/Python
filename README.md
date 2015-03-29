@@ -1,0 +1,1 @@
+Aqui irei postar meus scripts em Python, feitos no periodo de estudo.
